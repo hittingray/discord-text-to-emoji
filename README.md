@@ -1,6 +1,6 @@
 # Discord Text to Emoji #
 
-This program converts a string to emojis in Discord, and automatically copies the result to clipboard. It accepts alphanumeric strings. If a non-alphanumeric character is inputted, it will simply spit out `:regional\_indicator\_<char>:` For example:
+This program converts a string to emojis in Discord, and automatically copies the result to clipboard. It accepts alphanumeric strings. If a non-alphanumeric character is inputted, it will simply spit out `:regional_indicator_<char>:` For example:
 
 `abc 123`
 
