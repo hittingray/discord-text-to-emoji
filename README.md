@@ -12,4 +12,4 @@ which displays as
 
 ![Converted text](/images/converted.png)
 
-The binaries are compiled using Mingw-w64 for 64-bit Windows. 
+The binaries are compiled using Mingw-w64 for 64-bit Windows. I have also created a version for other programs I use such as Slack, where I have prefixed the emojis with `letter_` rather than `regional_indicator_`. You will need to download Letters.zip (available in releases). 
